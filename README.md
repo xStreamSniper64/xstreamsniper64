@@ -1,4 +1,5 @@
 Hi 👋 I'm KartikKew
+
 ==========================
 
 Just playing around with words, build and break stuff
@@ -52,3 +53,7 @@ Just trying to make it in life
     total github page views 
 ![Visitor Count](https://profile-counter.glitch.me/KartikKew/count.svg)
 
+<br>
+  
+![](https://user-images.githubusercontent.com/104786152/167017402-9a1edb34-87b2-4334-bf0a-098e1ad79fac.png)
+  
