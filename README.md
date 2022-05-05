@@ -30,7 +30,7 @@ Just trying to make it in life
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/KartikKew" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KartikKew" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/KartikKew" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KartikKew" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.reddit.com/u/kartikkew" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/reddit-1.svg" width="92" height="32" /></a></p>
 
 
 <p align="center">
