@@ -1,4 +1,4 @@
-Hi 👋 I'm KartikKew
+Hi 👋 I'm xStreamSniper
 
 ==========================
 
@@ -31,12 +31,12 @@ Just trying to make it in life
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/KartikKew" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KartikKew" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.reddit.com/u/kartikkew" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/reddit-1.svg" width="92" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/xStreamSniper64" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/xStreamSniper64" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.reddit.com/u/xStreamSniper" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/reddit-1.svg" width="92" height="32" /></a></p>
 
 
 <p align="center">
 
-<img width="500" src="https://metrics.lecoq.io/KartikKew">
+<img width="500" src="https://metrics.lecoq.io/xStreamSniper64">
   
 <br>
 
@@ -44,14 +44,14 @@ Just trying to make it in life
 
 <br>
 
-|![](https://github-readme-stats.vercel.app/api?username=KartikKew&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikKew&layout=compact&theme=tokyonight&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=xStreamSniper64&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=xStreamSniper64&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-![](https://activity-graph.herokuapp.com/graph?username=KartikKew&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=xStreamSniper64w&theme=redical)
 
 
     total github page views 
-![Visitor Count](https://profile-counter.glitch.me/KartikKew/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/xStreamSniper64/count.svg)
 
 <br>
   
