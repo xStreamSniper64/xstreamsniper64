@@ -44,7 +44,7 @@ Just trying to make it in life
 
 <br>
 
-|![](https://github-readme-stats.vercel.app/api?username=xStreamSniper64&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=xStreamSniper64&layout=compact&theme=tokyonight&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=xStreamSniper64&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=xStreamSniper64&layout=compact&theme=tokyonight&langs_count=15)|
 |-|-|
 
 ![](https://activity-graph.herokuapp.com/graph?username=xStreamSniper64&theme=redical)
